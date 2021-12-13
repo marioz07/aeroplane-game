@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1639403683 source:c:\users\atharva thaware\desktop\aeroplane game\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
+	<stdlib.h>
+	"RGBpixmap.cpp"
+
+1426329928 c:\users\atharva thaware\desktop\aman\graphic project\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\users\atharva thaware\desktop\aman\graphic project\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1547816320 c:\users\atharva thaware\desktop\aeroplane game\rgbpixmap.cpp
+	<fstream>
+	<iostream>
+	<GL/glut.h>
+
